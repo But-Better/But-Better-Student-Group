@@ -7,3 +7,6 @@ https://butbetter.atlassian.net/wiki/spaces/CA/pages/327681/Some+General+Conveti
 
 ## Code analyse
 https://app.circleci.com/pipelines/github/But-Better/CalcApi?branch=circleci-project-setup
+
+## Create Swagger Docu
+https://www.baeldung.com/spring-rest-openapi-documentation
