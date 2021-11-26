@@ -10,3 +10,7 @@ https://app.circleci.com/pipelines/github/But-Better/CalcApi?branch=circleci-pro
 
 ## Create Swagger Docu
 https://www.baeldung.com/spring-rest-openapi-documentation
+
+```url
+  https://localhost:8080/swagger-ui.html
+```
