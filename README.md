@@ -12,5 +12,5 @@ https://app.circleci.com/pipelines/github/But-Better/CalcApi?branch=circleci-pro
 https://www.baeldung.com/spring-rest-openapi-documentation
 
 ```url
-  https://localhost:8080/swagger-ui.html
+  http://localhost:8080/swagger-ui.html
 ```
